@@ -12,3 +12,22 @@ integración utilizando jest y supertest. Las pruebas deben aplicarse sobre la A
   <li>Verificar el nivel de cobertura de los test.</li>
   <li>Subir los cambios a GitHub.</li>
 </ol>
+
+<h2>Parte II</h2>
+
+<h3>Objetivo:</h3>  
+<h4>El objetivo de este trabajo práctico es que los alumnos desarrollen un nuevo endpoint en Biblioteca
+para la administración de usuarios utilizando una herramienta de generación de código guiada por
+Inteligencia Artificial.</h4> 
+
+<h4> Implementar las siguientes rutas y funcionalidades, utilizando la herramienta de generación
+de código <b>Codeium:</b></h4>
+<ol>
+  <li>GET /usuarios: Devuelve la lista completa de usuarios.</li>
+  <li>GET /usuarios/:id: Devuelve los detalles de un usuario específico según su ID.</li>
+  <li>POST /usuarios: Crea un nuevo usuario con la información proporcionada.</li>
+  <li>PUT /usuarios/:id: Actualiza la información de un usuario específico según su ID.</li>
+  <li>DELETE /usuarios/:id: Elimina un usuario específico según su ID.</li>
+</ol>
+
+
